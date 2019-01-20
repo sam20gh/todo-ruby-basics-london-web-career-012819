@@ -22,7 +22,7 @@ def return_a_value(phrase = "Nice")
 end
 
 def last_evaluated_value(phrase)
-  "#{phrase}"
+  puts "#{phrase}"
 end
 
 def pizza_party
